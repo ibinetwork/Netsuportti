@@ -18,7 +18,7 @@ echo ""
 cowsay "INICIANDO O PROCESSO..."
 echo ""
 svn co https://github.com/ibinetwork/Netsuportti/trunk/ /usr/src/Netsuportti
-rsync --progress -r /usr/src/Netsuportti/theme/ /var/www/html/theme/
+rsync --progress -r /usr/src/Netsuportti/themes/ /var/www/html/themes/
 clear
 cowsay "EXECUTANDO O PATCH-BR"
 sleep 5
