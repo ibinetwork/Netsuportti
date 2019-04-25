@@ -7,7 +7,6 @@ yum install wget mtr vim mlocate nmap tcpdump mc nano lynx rsync minicom screen 
 clear
 echo ""
 clear
-echo "======================================================="
 cowsay "Patch para Netsuportti"
 echo ""
 echo "Autor Rafael Tavares - Empresa Ibinetwork Informática"
