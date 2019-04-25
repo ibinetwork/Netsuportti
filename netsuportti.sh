@@ -1,8 +1,9 @@
 #!/bin/bash
 clear
 echo "AGUARDE..."
-yum install epel-release -y > /dev/null
-yum install wget mtr vim mlocate nmap tcpdump mc nano lynx rsync minicom screen htop subversion deltarpm cowsay -y > /dev/null
+echo ""
+yum install epel-release
+yum install wget mtr vim mlocate nmap tcpdump mc nano lynx rsync minicom screen htop subversion deltarpm cowsay -y
 clear
 echo ""
 clear
