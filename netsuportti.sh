@@ -8,7 +8,8 @@ clear
 echo ""
 clear
 echo "======================================================="
-echo "Patch para Netsuportti"
+cowsay "Patch para Netsuportti"
+echo ""
 echo "Autor Rafael Tavares - Empresa Ibinetwork Informática"
 echo "https://www.ibinetwork.com.br / 011 3042-1234"
 echo "======================================================="
