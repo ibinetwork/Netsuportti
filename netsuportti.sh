@@ -33,5 +33,5 @@ sed -i -r 's/33697B/134372/' /var/www/html/admin/assets/css/mainstyle.css
 rm -Rf /usr/src/Netsuportti
 clear
 echo ""
-cowsay "SCRIPT NETSUPORTTI EXECUTADO COM SUCESSO!
+cowsay "SCRIPT NETSUPORTTI EXECUTADO COM SUCESSO!"
 echo ""
